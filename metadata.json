@@ -1,0 +1,6 @@
+{
+  "name": "Markerbox Formatter",
+  "description": "Ferramenta para formatação de decupagens de vídeos compatível com o plugin Markerbox do Adobe Premiere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
